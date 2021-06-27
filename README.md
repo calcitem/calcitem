@@ -10,6 +10,8 @@ We are located in Canton, China 🌆
 
 [![Sanmill](https://github-readme-stats.vercel.app/api/pin/?username=calcitem&repo=Sanmill)](https://github.com/calcitem/Sanmill)
 
+![image](Sanmill/res/sanmill.gif)
+
 ### Github Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=calcitem&count_private=true&theme=default&show_icons=true)](https://github.com/calcitem)
