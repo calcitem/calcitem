@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**calcitem/calcitem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are located in Canton, China 🌆
 
-Here are some ideas to get you started:
+- 🔭 we are currently working part time on our open source.
+- 💬 Ask us about Flutter, Release Automation of apps, and AI.
+- 📫 You can reach us on [Twitter](https://twitter.com/CalcitemStudio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open Source Projects
+
+[![Sanmill](https://github-readme-stats.vercel.app/api/pin/?username=calcitem&repo=Sanmill)](https://github.com/calcitem/Sanmill)
+
+### Github Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=calcitem&count_private=true&theme=default&show_icons=true)](https://github.com/calcitem)
