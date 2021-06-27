@@ -2,8 +2,8 @@
 
 We are located in Canton, China 🌆
 
-- 🔭 we are currently working part time on our open source.
-- 💬 Ask us about Flutter, Release Automation of apps, and AI.
+- 🔭 We are currently working part time on our open source.
+- 💬 Ask us about Flutter and AI.
 - 📫 You can reach us on [Twitter](https://twitter.com/CalcitemStudio)
 
 ### Open Source Projects
